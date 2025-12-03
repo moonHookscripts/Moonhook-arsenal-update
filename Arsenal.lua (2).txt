@@ -1622,7 +1622,7 @@ end)
 
 local Credit = Window:NewTab("Credits")
 local Section = Credit:NewSection("Credits")
-local Section = Credit:NewSection("Script Developed by: AdvanceFalling Team")
+local Section = Credit:NewSection("Script Developed by: MoonhookHQ Team")
 Section:NewDropdown("Developer", "Dev", {"sin5kk", "aabbaii", "wild", "blueball", "dev"}, function(currentDeveloper)
     local creations = {
         sin5kk = "co worker",
