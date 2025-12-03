@@ -31,7 +31,7 @@ CoreGui:SetCore("SendNotification", {
 game:GetService("StarterGui"):SetCore("SendNotification", {
   Title = "Maded By Moonhook:",
   Text = "devmoon Team",
-  Icon = "rbxthumb://type=Asset&id=13508183954&w=150&h=150",
+  Icon = "rbxthumb://type=Asset&id=137155436543367&w=150&h=150",
   Duration = 8,
 })
 
@@ -1625,11 +1625,11 @@ local Section = Credit:NewSection("Credits")
 local Section = Credit:NewSection("Script Developed by: AdvanceFalling Team")
 Section:NewDropdown("Developer", "Dev", {"YellowGreg", "WspBoy12", "MMSVon", "ShadowClark", "Frostbite"}, function(currentDeveloper)
     local creations = {
-        YellowGreg = "Owner",
-        WspBoy12 = "Head Developer",
-        MMSVon = "Head Developer",
-        ShadowClark = "Head Developer",
-        Frostbite = "Head Developer",
+        sin5kk = "co worker",
+        moonhook = "Head Developer",
+        blueball = "Head Developer",
+        aabbaii = "Head Developer",
+        wild = "Head Developer",
     }
     print(currentDeveloper .. " created " .. creations[currentDeveloper])
 end)
