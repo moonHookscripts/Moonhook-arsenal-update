@@ -1636,7 +1636,7 @@ end)
 local Section = Credit:NewSection("UI Framework: Kavo.")
 local Section = Credit:NewSection("Report Non-Functional Bugs Scripts on Discord")
 Section:NewButton("Copy Discord Link", "Discord", function()
-    setclipboard("https://discord.com/invite/d2446gBjfq")
+    setclipboard("https://discord.gg/PD6tGFkZ")
 end)
 
 
